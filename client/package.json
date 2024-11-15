@@ -39,9 +39,12 @@
     "@types/uuid": "^10.0.0",
     "eslint": "^8",
     "eslint-config-next": "15.0.2",
+    "glob": "^11.0.0",
+    "inflight": "^1.0.6",
     "postcss": "^8",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.8",
+    "rimraf": "^6.0.1",
     "tailwind-merge": "^2.5.4",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
